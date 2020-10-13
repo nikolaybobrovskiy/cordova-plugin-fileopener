@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-fileopener",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Plugin to download and open files with default application for Android devices",
   "cordova": {
     "id": "cordova-plugin-fileopener",
